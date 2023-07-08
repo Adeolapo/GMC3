@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.carde{
+  width: 305px;
+  height: 400px;
+  background-color: rgb(196, 133, 50);
+  padding: 10px;
+}
+.carde img{
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+}
+.shw{
+  display: none;
+}
